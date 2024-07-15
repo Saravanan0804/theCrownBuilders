@@ -56,11 +56,11 @@ class Header extends React.Component {
                   <ul className="list-unstyled e-p-bx pull-right">
                     <li>
                       <i className="fa fa-envelope" />{" "}
-                      thecrownbuilders06@gmail.Com
+                      thecrownbuilders06@gmail.com
                     </li>
                     <li>
                       <i className="fa fa-phone" />
-                      (077) 3894683
+                      (+94) 77 389 4683
                     </li>
                     <li>
                       <i className="fa fa-clock-o" />
@@ -144,7 +144,7 @@ class Header extends React.Component {
                             <h5 className="m-t0 font-weight-500">
                               Phone number
                             </h5>
-                            <p>(077) 3894683</p>
+                            <p>(+94) 77 389 4683</p>
                           </div>
                         </div>
                         <div className="mt-icon-box-wraper center p-b30">

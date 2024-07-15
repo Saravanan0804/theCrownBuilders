@@ -18,7 +18,7 @@ class Specialization extends React.Component {
                                         <div className="figcaption">
                                             <h4>Construction</h4>
                                             <p>Engineering your dreams with us.</p>
-                                            <NavLink to="/project-detail" ><i className="link-plus bg-primary" /></NavLink>
+                                            <NavLink to="/project-grid" ><i className="link-plus bg-primary" /></NavLink>
                                         </div>
                                     </div>
                                 </div>
@@ -28,7 +28,7 @@ class Specialization extends React.Component {
                                         <div className="figcaption">
                                             <h4>Architecture</h4>
                                             <p>Life is Architecture.</p>
-                                            <NavLink to="/project-detail" ><i className="link-plus bg-primary" /></NavLink>
+                                            <NavLink to="/project-grid" ><i className="link-plus bg-primary" /></NavLink>
                                         </div>
                                     </div>
                                 </div>
@@ -38,7 +38,7 @@ class Specialization extends React.Component {
                                         <div className="figcaption bg-dark">
                                             <h4>Renovation</h4>
                                             <p>Dazzling Design</p>
-                                            <NavLink to="/project-detail" ><i className="link-plus bg-primary" /></NavLink>
+                                            <NavLink to="/project-grid" ><i className="link-plus bg-primary" /></NavLink>
                                         </div>
                                     </div>
                                 </div>
@@ -46,7 +46,7 @@ class Specialization extends React.Component {
                                     <div className="mt-box our-speciallization-content">
                                         <h3 className="m-t0"><span className="font-weight-100">Building</span> <br />It better in concrete.</h3>
                                         <p>When it comes to your house, don’t mess with the rest, trust the best. Making your vision come true, that is what we do.</p>
-                                        <NavLink to="/project-detail"  className="site-button btn-effect">View All</NavLink>
+                                        <NavLink to="/project-grid"  className="site-button btn-effect">View All</NavLink>
                                     </div>
                                 </div>
                             </div>

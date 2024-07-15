@@ -7,7 +7,7 @@ import Specialization4 from './../Elements/Specialization4';
 import Team3 from './../Elements/Team3';
 import AboutSummary from './../Elements/AboutSummary';
 
-var bnrimg = require('./../../images/banner/1.jpg');
+var bnrimg = require('./../../images/gallery/pic6.jpg');
 
 class About extends React.Component {
     render() {
@@ -20,7 +20,7 @@ class About extends React.Component {
                     <About4 />
                     <Specialization4 />
                     <Team3 />
-                    <AboutSummary />
+                    {/* <AboutSummary /> */}
 
                 </div>
 

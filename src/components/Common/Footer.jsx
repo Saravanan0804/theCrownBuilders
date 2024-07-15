@@ -105,11 +105,12 @@ class Footer extends React.Component {
                     <h4 className="widget-title">Contact Us</h4>
                     <ul className="widget_address">
                       <li>
-                        34/7 Liverpool Street, Suite 636, London, United Kingdom
+                      Suppila Kalady Lane, Dutch Road, Kopay South,
+                      Jaffna, Srilanka.
                       </li>
-                      <li>7xthemedemo@gmail.com</li>
-                      <li>(+298) 012-3456-789</li>
-                      <li>(+298) 146-6543-480</li>
+                      <li>thecrownbuilders06@gmail.com</li>
+                      <li>(+94) 77 389 4683</li>
+                      
                     </ul>
                   </div>
                 </div>
@@ -125,7 +126,7 @@ class Footer extends React.Component {
                         <NavLink to={"/project-grid"}>Projects</NavLink>
                       </li>
                       <li>
-                        <NavLink to={"/blog-grid"}>Blog</NavLink>
+                        <NavLink to={"/services"}>Services</NavLink>
                       </li>
                       <li>
                         <NavLink to={"/contactus"}>Contact Us</NavLink>
