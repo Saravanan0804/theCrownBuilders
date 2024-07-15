@@ -5,7 +5,7 @@ import Banner from './../Elements/Banner';
 import About4 from './../Elements/About4';
 import Specialization4 from './../Elements/Specialization4';
 import Team3 from './../Elements/Team3';
-import AboutSummary from './../Elements/AboutSummary';
+// import AboutSummary from './../Elements/AboutSummary';
 
 var bnrimg = require('./../../images/gallery/pic6.jpg');
 

@@ -1,9 +1,9 @@
 import React from "react";
 import CountUp from "react-countup";
-import { NavLink } from "react-router-dom";
+// import { NavLink } from "react-router-dom";
 import ReactPlayer from "react-player";
 
-var img1 = require("./../../images/video-bg.jpg");
+// var img1 = require("./../../images/video-bg.jpg");
 
 class OurValue extends React.Component {
   componentDidMount() {
