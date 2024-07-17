@@ -12,9 +12,9 @@ class Callus extends React.Component {
                     <div className="container">
                         <div className="section-content">
                             <div className="call-us-section text-center">
-                                <h4 className="m-b15">Let's work together</h4>
+                                <h4 className="m-b15 text-white">Let's work together</h4>
                                 <h2 className="call-us-number m-b15 m-b0">(+94) 77 389 4683</h2>
-                                <h4 className="call-us-address m-t0 m-b20">Suppila Kalady Lane, Dutch Road, Kopay South,
+                                <h4 className="call-us-address m-t0 m-b20 text-white">Suppila Kalady Lane, Dutch Road, Kopay South,
                                 Jaffna, Srilanka.</h4>
                                 <NavLink to="/contactus" className="site-button-secondry btn-effect bg-dark">Contact Us</NavLink>
                             </div>

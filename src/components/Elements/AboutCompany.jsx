@@ -22,7 +22,7 @@ class AboutCompany extends React.Component {
                                             <h3 className="m-t0">In our work we have pride, quality is what we provide.</h3>
                                             <p>Dummy text is also used to demonstrate the appearance of different typefaces and layouts, and in general the content of dummy text is nonsensical. Due to its widespread use texts.  Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputa cumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.</p>
                                             <div className="call-for-quote-outer">
-                                                <div className="call-quote">
+                                                <div className="call-quote text-white">
                                                     <span>Call For a Quote:</span>
                                                     <h4>(+94) 77 389 4683</h4>
                                                 </div>

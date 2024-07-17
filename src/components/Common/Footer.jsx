@@ -25,7 +25,7 @@ class Footer extends React.Component {
             <div className="p-a30 bg-primary ">
               <div className="row">
                 <div className="col-md-8 col-sm-8">
-                  <div className="call-to-action-left text-black">
+                  <div className="call-to-action-left text-white">
                     <h4 className="text-uppercase m-b10 m-t0">
                       Subscribe to our newsletter!
                     </h4>

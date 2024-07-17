@@ -1,5 +1,5 @@
 import React from 'react';
-import Header from './../Common/Header';
+import Header4 from './../Common/Header4';
 import Footer from './../Common/Footer';
 import Banner from './../Elements/Banner';
 import AboutCompany from '../Elements/AboutCompany';
@@ -16,7 +16,7 @@ class Services extends React.Component {
         return (
             <>
 
-                <Header />
+                <Header4 />
                 <div className="page-content">
                     <Banner title="Diversified services. Unvarying quality." pagename="Services" bgimage={bnrimg}/>
                     <AboutCompany />

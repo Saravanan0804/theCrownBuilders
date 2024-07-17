@@ -49,7 +49,7 @@ class Header extends React.Component {
     return (
       <>
         <header className="site-header header-style-1 header-dark-1">
-          <div className="top-bar bg-primary text-black">
+          <div className="top-bar bg-primary text-white">
             <div className="container">
               <div className="row">
                 <div className="mt-topbar-left clearfix">

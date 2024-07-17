@@ -1,5 +1,5 @@
 import React from "react";
-import Header from "./../Common/Header";
+import Header4 from "./../Common/Header4";
 import Footer from "./../Common/Footer";
 import Banner from "./../Elements/Banner";
 import GoogleMapReact from "google-map-react";
@@ -19,7 +19,7 @@ class ContactUs extends React.Component {
     };
     return (
       <>
-        <Header />
+        <Header4 />
         <div className="page-content">
           <Banner
             title="Putting a plan to action, to assure your satisfaction!"

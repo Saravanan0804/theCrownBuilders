@@ -1,5 +1,5 @@
 import React from 'react';
-import Header from './../Common/Header';
+import Header4 from './../Common/Header4';
 import Footer from './../Common/Footer';
 import Banner from './../Elements/Banner';
 import About4 from './../Elements/About4';
@@ -14,7 +14,7 @@ class About extends React.Component {
         return (
             <>
 
-                <Header />
+                <Header4 />
                 <div className="page-content">
                     <Banner title="Creating quality urban lifestyles, building stronger communities." pagename="About Us" bgimage={bnrimg}/>
                     <About4 />
