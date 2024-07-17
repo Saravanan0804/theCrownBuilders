@@ -1,5 +1,5 @@
 import React from 'react';
-import Header from './../Common/Header';
+import Header4 from './../Common/Header4';
 import Footer from './../Common/Footer';
 import Slider from './../Elements/Slider';
 import Specialization from './../Elements/Specialization';
@@ -16,7 +16,7 @@ class Home extends React.Component {
     render() {
         return (
             <>
-                <Header />
+                <Header4 />
                 <div className="page-content">
                     <Slider />
                     <Specialization />

@@ -50,7 +50,7 @@ class OurValue3 extends React.Component {
                                                 <div className="text-white p-r15">
                                                     <h4 className="mt-tilte">Let's help you!</h4>
                                                     <p>There are many variations of passages of lorem available, but the majority have suffered alteration in some form, by inject humour, or randomised words which don't look even slightly believable.</p>
-                                                    <NavLink to="/project-detail" className="site-button btn-effect">Contact Us</NavLink>
+                                                    <NavLink to="/contactus" className="site-button btn-effect">Contact Us</NavLink>
                                                 </div>
                                             </div>
                                         </div>
@@ -59,7 +59,7 @@ class OurValue3 extends React.Component {
                                 <div className="col-md-5 col-sm-6 m-b30">
                                     <div className="our-exp">
                                         <div className="mt-box">
-                                            <h3 className="m-t0"><span className="font-weight-100"> We have</span><span className="text-primary"> 15 years</span> experience in construction</h3>
+                                            <h3 className="m-t0"><span className="font-weight-100"> We have</span><span className="text-primary"> 2+ years</span> experience in construction</h3>
                                         </div>
                                         <span className="progressText text-black"><b>Architecher</b></span>
                                         <div className="progress mt-probar-1  m-b30 m-t10">

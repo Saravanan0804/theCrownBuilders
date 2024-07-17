@@ -84,7 +84,7 @@ class Faq extends React.Component {
                                                 <div className="icon-content text-black">
                                                     <h4 className="mt-tilte text-uppercase font-weight-600 m-b20">Assistance</h4>
                                                     <p>Lorem Ipsum is simply dummy text of the printing and setting as Planning.</p>
-                                                    <NavLink to="/about" className="site-button-link" data-hover="Read More">Read More <i className="fa fa-angle-right arrow-animation" /></NavLink>
+                                                    <NavLink to="/contactus" className="site-button-link" data-hover="Read More">Read More <i className="fa fa-angle-right arrow-animation" /></NavLink>
                                                 </div>
                                             </div>
                                         </div>
@@ -96,7 +96,7 @@ class Faq extends React.Component {
                                                 <div className="icon-content text-white">
                                                     <h4 className="mt-tilte text-uppercase font-weight-600 m-b20">Financing</h4>
                                                     <p>Lorem Ipsum is simply dummy text of the printing and setting as Planning.</p>
-                                                    <NavLink to="/about" className="site-button-link yellow" data-hover="Read More">Read More <i className="fa fa-angle-right arrow-animation" /></NavLink>
+                                                    <NavLink to="/contactus" className="site-button-link yellow" data-hover="Read More">Read More <i className="fa fa-angle-right arrow-animation" /></NavLink>
                                                 </div>
                                             </div>
                                         </div>

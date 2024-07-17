@@ -24,10 +24,10 @@ class AboutCompany extends React.Component {
                                             <div className="call-for-quote-outer">
                                                 <div className="call-quote">
                                                     <span>Call For a Quote:</span>
-                                                    <h4>(321) 456 6789</h4>
+                                                    <h4>(+94) 77 389 4683</h4>
                                                 </div>
                                                 <div className="call-estimate bg-dark">
-                                                <NavLink to={"#"} className="site-button-secondry btn-effect">Online Estimate Form</NavLink>
+                                                <NavLink to={"/contactus"} className="site-button-secondry btn-effect">Online Estimate Form</NavLink>
                                                 </div>
                                             </div>
                                         </div>
